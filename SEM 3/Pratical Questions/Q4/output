@@ -1,0 +1,9 @@
+gourab@gourab:~/Desktop/SEM 3/Pratical Questions/Q4$ gcc main.c -o main
+gourab@gourab:~/Desktop/SEM 3/Pratical Questions/Q4$ ./main main.c
+GIve File Name:file=main.c
+Ownered=1000
+gid=1000
+Access Permission=33204
+Access Time=1634222281
+gourab@gourab:~/Desktop/SEM 3/Pratical Questions/Q4$ 
+

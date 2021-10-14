@@ -1,0 +1,11 @@
+gourab@gourab:~/Desktop/SEM 3/Pratical Questions/Q3$ gcc main.c -o main
+gourab@gourab:~/Desktop/SEM 3/Pratical Questions/Q3$ ./main
+
+Kernel Version:
+5.11.0-36-generic
+
+Information on Configured amount of free and Used Memory:
+MemTotal:        4879612 kB
+MemFree:         2652604 kB
+gourab@gourab:~/Desktop/SEM 3/Pratical Questions/Q3$ 
+

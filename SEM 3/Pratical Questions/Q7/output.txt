@@ -1,0 +1,14 @@
+Enter the No. of Processes=4
+Enter the Burst Time of 1th Process=2
+Enter the Burst Time of 2th Process=7
+Enter the Burst Time of 3th Process=6
+Enter the Burst Time of 4th Process=4
+
+Waiting & Turn Around Time
+**************************
+Process 1-Waiting=0, Turn Around=2
+Process 2-Waiting=2, Turn Around=9
+Process 3-Waiting=9, Turn Around=15
+Process 4-Waiting=15, Turn Around=19
+Average Waiting Time=6.500000
+Average Turn Around Time=11.250000
